@@ -1,0 +1,1 @@
+let divContainer = document.getElementById("divContainer");
